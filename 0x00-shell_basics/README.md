@@ -16,3 +16,6 @@ Create a script that copies all the HTML files from the current working director
 
 You can consider that all HTML files have the extension .html
 Create a script that deletes all files in the current working directory that end with the character ~.
+Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+You are only allowed to use two spaces (and lines) in your script, not more.
